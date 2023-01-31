@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ixiussy
-- 👀 I’m interested in blockchain and all the implications possible
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on developments about blockchain
+- 👀 I’m interested in blockchain and all the implications
+- 🌱 I’m currently learning how to create a website in Wordpress
 
 
 <!---
